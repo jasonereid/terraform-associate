@@ -23,3 +23,4 @@ Terraform uses a declarative approach to infrastructure as code (IaC) - you decl
     terraform show - shows the details of the State file
   
   
+Order of input is 	 terraform init -> terraform plan -> terraform apply
