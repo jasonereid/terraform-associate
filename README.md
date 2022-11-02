@@ -1,7 +1,7 @@
 # Terraform Associate Study Guide
 Study guide for Terraform Associate Certification 002
 
-[Official Study Guide from Hashicorp](https://developer.hashicorp.com/terraform/tutorials/certification/associate-study)
+[Official Study Guide from HashiCorp](https://developer.hashicorp.com/terraform/tutorials/certification/associate-study)
 
 ### The Basics
 
