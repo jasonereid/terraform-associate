@@ -1,6 +1,8 @@
 # Terraform Associate Study Guide
 Study guide for Terraform Associate Certification 002
 
+[Official Study Guide from Hashicorp](https://developer.hashicorp.com/terraform/tutorials/certification/associate-study)
+
 ### The Basics
 
 All Terraform files end in a .tf extension. 
